@@ -1,6 +1,7 @@
 import tkinter as tk
 from auth import show_auth_screen
 
+
 def main_menu():
     root = tk.Tk()
     root.title("Hotel Management System")
